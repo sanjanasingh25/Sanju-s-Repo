@@ -1,2 +1,2 @@
-# Sanju-s-Repo
-Demo for repo
+# Sanju-s-Repository
+Demo for the repo
